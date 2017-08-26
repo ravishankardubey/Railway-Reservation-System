@@ -1,8 +1,4 @@
-<%-- 
-    Document   : reservation
-    Created on : 01-Jul-2015, 01:04:39
-    Author     : AKSHAY SRIVASTAVA
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8" import="java.sql.*,p1.*,javax.servlet.*"%>
       
