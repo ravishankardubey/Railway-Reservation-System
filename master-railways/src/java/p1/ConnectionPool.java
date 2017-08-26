@@ -6,10 +6,7 @@ package p1;
 
 import java.sql.*;
 
-/**
- *
- * @author ravishankar
- */
+
 public class ConnectionPool {
 
     public static Connection getConnect() {
