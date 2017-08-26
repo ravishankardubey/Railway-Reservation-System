@@ -1,8 +1,4 @@
-<%-- 
-    Document   : train_details
-    Created on : 01-Jul-2015, 23:47:20
-    Author     : AKSHAY SRIVASTAVA
---%>
+
 
 <%@page import="p1.ConnectionClass"%>
 <%@page contentType="text/html" pageEncoding="UTF-8" import='java.sql.*,p1.*'%>
