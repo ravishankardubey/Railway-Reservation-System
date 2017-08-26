@@ -1,8 +1,4 @@
-<%-- 
-    Document   : account
-    Created on : Jul 1, 2015, 2:06:45 AM
-    Author     : Shivangi
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8" import="java.sql.*,p1.*"%>
 <!DOCTYPE html>
