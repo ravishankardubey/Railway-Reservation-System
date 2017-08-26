@@ -1,8 +1,4 @@
-<%-- 
-    Document   : enter_user_details.jsp
-    Created on : 02-Jul-2015, 14:54:22
-    Author     : AKSHAY SRIVASTAVA
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8" import='javax.servlet.*,p1.*,java.sql.*'%>
 <!DOCTYPE html>
