@@ -5,10 +5,7 @@
  */
 package p1;
 import java.sql.*;
-/**
- *
- * @author AKSHAY SRIVASTAVA
- */
+
 public class insert {
     private String username;
     private String confirm_password;
