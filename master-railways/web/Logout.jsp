@@ -1,8 +1,4 @@
-<%-- 
-    Document   : Logout
-    Created on : Jul 3, 2015, 2:53:17 PM
-    Author     : lenovo
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
