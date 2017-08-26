@@ -1,8 +1,4 @@
-<%--
-    Document   : index
-    Created on : Jun 29, 2015, 9:48:17 PM
-    Author     : anumeha
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
