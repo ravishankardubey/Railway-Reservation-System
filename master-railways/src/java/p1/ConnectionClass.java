@@ -6,10 +6,7 @@
 package p1;
 import java.sql.*;
 
-/**
- *
- * @author AKSHAY SRIVASTAVA
- */
+
 public class ConnectionClass {
     
     public static Connection getConnection()
