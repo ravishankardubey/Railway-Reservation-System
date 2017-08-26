@@ -1,0 +1,47 @@
+/* 
+    Document   : mystyle3
+    Created on : Jul 2, 2015, 10:08:18 PM
+    Author     : anumeha
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+*
+{
+	margin:0px;
+	padding:0px;
+}
+h1
+{
+	font:bold italic 20px Algerian;
+        text-align: center;
+       
+        display:block;
+}
+body
+{
+	width:100%;
+	display:-webkit-box;
+	-webkit-box-pack:center;
+        background-image: url("images/patri.jpg");
+        background-position:center ;
+        background-repeat: no-repeat;
+        padding: 20px;
+
+}
+#wrap
+{
+    
+       
+        max-width: 1000px;
+	margin:20px 0px;
+	display:-webkit-box;
+	-webkit-box-orient:vertical;
+	-webkit-box-flex:1;
+}
+

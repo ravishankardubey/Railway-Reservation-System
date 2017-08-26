@@ -1,0 +1,87 @@
+*
+{
+	margin:0px;
+	padding:0px;
+}
+h1
+{
+	font:bold italic 20px Algerian;
+        text-align: center;
+        padding-top: 15px;
+}
+header,section,footer,aside,nav,article,hgroup
+{
+	display:block;
+}
+body
+{
+	width:100%;
+	display:-webkit-box;
+	-webkit-box-pack:center;
+
+}
+#big_wrapper
+{
+	border:1px solid black;
+	max-width: 1000px;
+	margin:20px 0px;
+	display:-webkit-box;
+	-webkit-box-orient:vertical;
+	-webkit-box-flex:1;
+}
+#top_header
+{
+	background:whitesmoke;
+	
+	padding:20px;
+}
+#top_menu
+{
+	border:white;
+	background:wheat;
+	color:darkslateblue;
+}
+#top_menu li
+{
+	display:inline-block;
+	list-style:none;
+	padding:7px;
+	font:bold 14px Tahoma;
+}
+#new_div
+{
+	display:-webkit-box;
+	-webkit-box-orient:horizontal;
+}
+#main_section
+{
+	border:1px solid blue;
+	-webkit-box-flex:1;
+	margin:20px;
+	padding:20px
+}
+#rules
+{
+    float: left;
+}
+#login{
+         border:1px solid cornflowerblue;
+      }
+#the_footer
+{
+	text-align:center;
+	padding:10px;
+	border-top:2px solid green;
+}
+article
+{
+	background-color:#FFFBCC; /*peach*/
+	border:1px solid red;
+	padding:20px;
+	margin-bottom:15px;
+}
+article footer
+{
+text-align:right;
+}
+
