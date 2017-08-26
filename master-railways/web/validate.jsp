@@ -1,8 +1,4 @@
-<%--
-    Document   : validate
-    Created on : Jun 30, 2015, 10:40:38 AM
-    Author     : ravishankar
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
