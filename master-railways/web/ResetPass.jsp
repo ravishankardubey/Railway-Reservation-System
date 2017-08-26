@@ -1,8 +1,4 @@
-<%-- 
-    Document   : ResetPass
-    Created on : Jul 3, 2015, 2:33:00 PM
-    Author     : lenovo
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8" import="p1.*,java.sql.*"%>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
