@@ -9,10 +9,7 @@
  */
 package p1;
 import java.sql.*;
-/**
- *
- * @author anumeha
- */
+
 public class Pid {
 
     public static long pgenerate() {
