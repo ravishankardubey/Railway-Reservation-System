@@ -1,8 +1,4 @@
-<%-- 
-    Document   : bankselection
-    Created on : Jun 30, 2015, 10:53:07 PM
-    Author     : Shivangi
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
