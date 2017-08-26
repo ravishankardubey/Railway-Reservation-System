@@ -1,8 +1,3 @@
-<%-- 
-    Document   : gateway2
-    Created on : Jul 1, 2015, 1:35:42 AM
-    Author     : Shivangi
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
