@@ -1,8 +1,4 @@
-<%-- 
-    Document   : fetch_all_cities
-    Created on : 01-Jul-2015, 10:51:57
-    Author     : AKSHAY SRIVASTAVA
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8" import="p1.*,java.sql.*"%>
 <%      
