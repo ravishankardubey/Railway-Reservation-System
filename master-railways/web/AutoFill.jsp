@@ -1,8 +1,4 @@
-<%-- 
-    Document   : AutoFill
-    Created on : Jun 30, 2015, 5:11:59 PM
-    Author     : Oracle WDP
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <script language="javascript" type="text/javascript" src="actb.js"> </script>
