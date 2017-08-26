@@ -1,8 +1,4 @@
-<%--
-    Document   : home
-    Created on : Jun 30, 2015, 11:05:24 PM
-    Author     : ravishankar
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8" import="p1.*,java.sql.*"%>
 <script language="javascript" type="text/javascript" src="actb.js"> </script>
