@@ -1,8 +1,4 @@
-<%-- 
-    Document   : credits
-    Created on : Jul 2, 2015, 4:30:24 PM
-    Author     : anumeha
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <link rel="stylesheet" type="text/css" href="mystyle.css">
