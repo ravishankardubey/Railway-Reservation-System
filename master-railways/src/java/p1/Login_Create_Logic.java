@@ -9,10 +9,7 @@ package p1;
 import java.sql.*;
 
 
-/**
- *
- * @author ravishankar
- */
+
 public class Login_Create_Logic {
 
     private String userid;
