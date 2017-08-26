@@ -5,10 +5,7 @@
 
 package p1;
 
-/**
- *
- * @author Miks
- */
+
 
 public class Words
 {
