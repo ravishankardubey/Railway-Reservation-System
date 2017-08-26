@@ -1,8 +1,4 @@
-<%-- 
-    Document   : last_page
-    Created on : 1 Jul, 2015, 3:03:53 PM
-    Author     : Dell Pc
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <link rel="stylesheet" type="text/css" href="mystyle.css">
