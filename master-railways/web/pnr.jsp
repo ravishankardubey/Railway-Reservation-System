@@ -1,8 +1,4 @@
-<%-- 
-    Document   : index
-    Created on : 30 Jun, 2015, 11:03:14 PM
-    Author     : Dell Pc
---%>
+
 
 <%@page import="p1.Pid"%>
 <%@page import="p1.Words"%>
